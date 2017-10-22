@@ -37,7 +37,7 @@ li:nth-child(2n) {
 	background-color: #f7f7f7;
 }
 
-i {
+li > i {
 	width: 0;
 	opacity: 0;
 	transition: 0.2s linear;
